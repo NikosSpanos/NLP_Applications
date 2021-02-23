@@ -8,6 +8,19 @@ This folder serves as a mainting repository of the code used in my thesis title:
 * Part 3 is the only part written in Python 3.6.9 because of the Tensorflow and Keras libraries.
 * Tensorflow version 2.4.1
 
+Topics implemented in the first folder:
+* Web scrapping using Python ```requests``` and ```BeautifulSoup``` modules.
+* Web scrapping using the TMDB API using the ```tmdbv3api``` module.
+* Data cleaning of text corpus.
+* Stratified shuffle split of imbalanced datasets with multi-label dependent variable.
+* Data tokenization for NLP applications using sklearn ```CountVectorizer``` and Tensorflow's ```Tokenizer```.
+* Multi-Input & Multi-Output neural network development.
+* Attention layer on text classification model.
+* Neural network training and evaluation using various metrics from the Keras/Tensorflow and Sklearn libraries.
+* Word embeddings extraction from the model classifier with the most accurate predictions.
+* Identfying similar movies based on word embeddings and cosine distance/similarity.
+* Movie recommendation algorithm in Python environment using Flask.
+
 The folder contains only the notebooks and not the datasets used. Any third party or individual can check the code and use parts of the code as per the individual's needs. The datasets can be accessed upon request on this email: spanos.nikolaos@outlook.com
 
 Please note that for using large parts of the notebooks it is advised to cite researcher's work using one of the following templates:
