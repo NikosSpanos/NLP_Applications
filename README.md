@@ -24,5 +24,5 @@ Please note that for using large parts of the notebooks it is advised to cite re
 }
 ````
 
-<ins>Jupyter Notebook</ins>
+<ins>Jupyter Notebook</ins><br>
 Spanos Nikos, Multi-label text classification on movies, 2021, on Github <repo_url>.
