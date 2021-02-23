@@ -2,7 +2,7 @@
 The repository contains notebooks written in Python about NLP applications. The first folder created in this repository maintains the implementation of multi-label text classification on movies dataset. In the long term this repository will include hands-on applications and notebooks for various field of the NLP discipline.
 
 ## Table of Contents
-1) **Folder 1: Multi-label text classification**<br>
+### **Folder 1: Multi-label text classification**<br>
 This folder serves as a mainting repository of the code used in my thesis title: *Movie Recommendation engine using an interactive conversational agent*. The code is updated regularly to Python, Tensorflow, Keras and other packages updates. The current version of the notebook are written in two Python environments.
 * Parts 1, 2, 4, and 5 are written using Python 3.7.4 and 3.9.1
 * Part 3 is the only part written in Python 3.6.9 because of the Tensorflow and Keras libraries.
