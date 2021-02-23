@@ -33,7 +33,7 @@ Please note that for using large parts of the notebooks it is advised to cite re
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/charlespwd/project-title}},
+  howpublished = {\url{https://github.com/NikosSpanos/NLP_Applications}},
 }
 ````
 
