@@ -7,6 +7,7 @@ This folder serves as a mainting repository of the code used in my thesis title:
 * Parts 1, 2, 4, and 5 are written using Python 3.7.4 and 3.9.1
 * Part 3 is the only part written in Python 3.6.9 because of the Tensorflow and Keras libraries.
 * Tensorflow version 2.4.1
+### Research & Development
 
 Topics implemented in the first folder:
 * Web scrapping using Python ```requests``` and ```BeautifulSoup``` modules.
@@ -39,3 +40,7 @@ Please note that for using large parts of the notebooks it is advised to cite re
 
 <ins>Jupyter Notebook</ins><br>
 Spanos Nikos, Multi-label text classification on movies, 2021, on Github https://github.com/NikosSpanos/NLP_Applications.
+
+### Research & Development
+* Apply Fourier layer from Tensorflow and assess its performance
+* Create DJango application for the Dialogflow chatbot. At the moment the chatbot API functions through Facebook messenger.
